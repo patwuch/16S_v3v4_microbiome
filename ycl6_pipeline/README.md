@@ -1,3 +1,6 @@
+# ADAPTED FROM I_HSUAN LIN'S PIPELINE
+# https://github.com/ycl6/16S-rDNA-V3-V4
+
 # 16S rDNA V3-V4 amplicon sequencing analysis
 
 This GitHub repository includes codes and scripts that demonstrate the use of `dada2` and `phyloseq` (and associated tools and R packages) to analyze 16S rDNA amplicon sequencing data. An working example is included in the `example` folder.
